@@ -1,2 +1,2 @@
-# SQl_Basics_Intermediate
-introductory to intermediate SQL 
+# SQl_Basics
+Basic to Intermediate SQL Projects with python 
