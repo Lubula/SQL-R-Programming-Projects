@@ -20,8 +20,8 @@ This section includes projects utilizing the R programming language.
 11.
 ### Intermediate Projects
 
-- [Project Name](R Prgramming Language /Intermediate_Projects/): increased complexity, visualisations and dependancies in projects /programs.
-- 
+-  [Project Name](Intermediate_Projects/project.sql): Increased complexity, visualisations and dependancies
+-  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
